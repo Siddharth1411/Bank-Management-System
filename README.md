@@ -1,3 +1,7 @@
+**Banking Hub**
+
+
+
 **Overview**
 
 BankingHub is a comprehensive banking management system designed to handle various banking operations such as account management, transactions, and password handling. The system is implemented using C++ and features a Binary Search Tree (BST) for account storage and a hash table for password management.
